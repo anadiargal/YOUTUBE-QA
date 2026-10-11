@@ -1,4 +1,4 @@
-# YouTube Q&A — transcript-grounded RAG
+# YOUTUBE - Q&A
 
 Paste a YouTube link → the app fetches the transcript, chunks it, embeds it with Gemini, stores the vectors in FAISS,
 and answers questions **only from the transcript** (with clickable timestamp sources). Anything the video doesn't
